@@ -2,7 +2,7 @@
 
 **Team**
 
-Frans Fourie fjf46 <br>
+Frans Fourie fjf46 <br />
 Konstantinos Karras Kallidromitis kk984
 
 **Project Idea**
@@ -26,3 +26,5 @@ Each module will contain
 People will interact with the PI setting the the priority list and can set timer lists. The user will also be able to look at the saved data.
 
 **Project Prototype fair**
+
+[Video of Project Prototype](https://youtu.be/rNbgpDsmD3E)<br />
