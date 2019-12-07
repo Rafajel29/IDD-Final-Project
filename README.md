@@ -27,5 +27,11 @@ People will interact with the PI setting the the priority list and can set timer
 
 **Project Prototype fair**
 
-[Video of Project Prototype](https://youtu.be/rNbgpDsmD3E)<br />
+[Video of project prototype](https://youtu.be/rNbgpDsmD3E)<br />
 ![](Images/Project_Prototype_fair.jpeg)
+
+**Project Demo**
+
+[Video of Project Demo part 1](https://youtu.be/8neb27REIO8 )<br />
+
+
