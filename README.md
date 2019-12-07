@@ -32,6 +32,10 @@ People will interact with the PI setting the the priority list and can set timer
 
 **Project Demo**
 
+Photo's of our demo and parts of the project are in the demo folder. Videos of the project working is shown below.
+
 [Video of Project Demo part 1](https://youtu.be/8neb27REIO8 )<br />
+
+[Video of Project Demo part 2](https://youtu.be/mBbDXF19JnA )<br />
 
 
