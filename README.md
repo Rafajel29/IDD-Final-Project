@@ -13,17 +13,19 @@ The modules will send back there measurements to the central unit. The central u
 
 **Expected parts**
 
-1) Raspberry PI
-
 Each module will contain
 
 1) ESP 32
-2) 3 x Non invasive amp clamps
-3) arduino relay board
+2) Non invasive amp clamps
+3) arduino relay board (Simulated using LED's)
 
 **Interaction plan**
 
-People will interact with the PI setting the the priority list and can set timer lists. The user will also be able to look at the saved data.
+People will interact with the Computer setting the the priority list and can set timer lists. The user will also be able to look at the saved data.
+
+**Obstacles Encountered**
+
+Relay boards advertised as appropriate for arduino's not being appropriate and thus we could not use the relay board. We rather used LED's to simulate a relay board showing that we could turn them off and on over the network. We had difficulty caliibrating the the non invasive current sensor due not having a multimeter with an AMP clamp and also not having access to mulitary grade resistors (The normal ones values vary too much for truly accurate readings).
 
 **Project Prototype fair**
 
